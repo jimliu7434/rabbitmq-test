@@ -1,0 +1,12 @@
+{
+  "name": "rabbitmq",
+  "version": "1.0.0",
+  "description": "a simple rabbitmq test project",
+  "main": "index.js",
+  "repository": "https://github.com/jimliu7434/rabbitmq-test.git",
+  "author": "jimliu7434 <jimliu7434@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "rabbit.js": "^0.4.4"
+  }
+}
